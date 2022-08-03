@@ -1,0 +1,4 @@
+1. Base image - "node:alpine"
+2. Building docker image - "docker build -t user_id/app_name ."
+3. Run docker image - "docker run user_id/app_name"
+4. Run Docker container with port mapping - "docker run -p 8080:8080 image_id"
