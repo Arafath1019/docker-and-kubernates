@@ -1,0 +1,5 @@
+1. for run image uing docker-compose: docker-compose up
+2. for build and run image using docker-compose: docker-compose up --build
+3. Launch in background: docker-compose up -d 
+4. For stopping containers: docker-compose down
+5. Containers status with docker-compose: docker-compose ps
